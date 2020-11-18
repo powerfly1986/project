@@ -8,6 +8,5 @@ apps [2] = prompt("which king ?", "");
 document.write(apps);
 
 
-// Test for updates
 
 
